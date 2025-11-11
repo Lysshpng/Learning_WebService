@@ -1,9 +1,9 @@
-# MyDemoWebApi
+# MyDemoWebService
 ## 20251107
 ### IDE
 1. Visual Studio 2022
 2. .NET
-3. 确保安装了ASP.NET和Web开发, 并勾选了"".Net Framework 项目和项模板"
+3. 确保安装了ASP.NET和Web开发, 并勾选了".Net Framework 项目和项模板"
 4. 安装完成后, 重启Visual Studio
 
 ### 创建项目
@@ -26,3 +26,8 @@
 ### 优化
 1. 移除XML格式支持, 只保留JSON格式支持;
 2. 接口返回格式 - todo;
+
+
+## 20251111
+1. 学习数据监听
+2. 学习配置文件的读取
