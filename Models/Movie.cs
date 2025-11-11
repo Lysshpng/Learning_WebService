@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace MyDemoWebApi.Models
+namespace MyDemoWebService.Models
 {
     /// <summary>
     /// 电影模型

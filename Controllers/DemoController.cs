@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace MyDemoWebApi.Controllers
+namespace MyDemoWebService.Controllers
 {
     public class DemoController : ApiController
     {
